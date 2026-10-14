@@ -1,0 +1,67 @@
+Assignment requirements: 
+- The job titles and approximate seniority level of each posting you analyzed (company names are not required)
+- Skills from Posting 1, noting which are required and which are preferred
+- Skills from Posting 2, noting which are required and which are preferred
+- A short list of skills that appeared in both postings
+- 2-4 sentences noting anything that stood out to you
+
+
+Job 1: Data Engineer II (WDC)
+Required: 
+- Bachelor’s in Comp Sci or related, or equivalent working exp 
+- 3+ yrs exp with large datasets 
+- Python, Java, or other OOP coding language
+- Databricks or similar large data processing
+- Cloud computing exp (AWS, Azure, Google Cloud, etc)
+- CI/CD pipelines and source control systems 
+- Comp Sci fundamental skills
+- Written and verbal communication skills. 
+
+Preferred:
+- Databricks pipeline building proficiency
+- Exp with Apache Spark or similar
+- Messaging technologies (Kafka, Kinesis, SQS, etc)
+- Exp with NoSQL databases
+- Exp with AI tools and coding help for faster dev cycle.
+
+
+
+
+Job 2: Data Scientist (JPMC)
+Required: 
+- Master’s in Stats, Math, or related
+- 3+ yrs exp as Data Scientist Associate, Data Analyst, or related
+- Advanced SQL knowledge
+- Snowflake and AWS Athena
+- REGEX knowledge
+- Exp with regression and time-series models
+- XGBoost or random forest models
+- Python scripting
+- Model tuning
+- Sales forecasting
+- Budget management
+- Spending prediction
+- Risk assessment
+- Trend identification 
+- Domain research
+- Microsoft Office (Excel, PowerPoint, etc)
+- Communicating results to nontechnical audiences. 
+
+Preferred: 
+- None explicitly listed
+
+
+
+
+Skills in both listings:
+- Python
+- Data analysis
+- Machine learning
+- Data validation
+- Personalization
+
+
+The most surprising thing about comparing these two job listings is how similar the positions are, even though the industries and aims of the job are completely different. 
+Both aim to personalize their services, though how they approach finding a solution is very different. 
+Disney aims to offer content suggestions for users based on watch history and, presumably, preference indications (thumbs-upping a show or movie you enjoyed, etc). 
+JPMorganChase aims to predict consumer behaviors and personalize their services for customers in advance. 
